@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kkrishnadeepthi</h1>
-<h3 align="center">🌱 A passionate database developer working in Healthcare sector. Specializing in PostgreSQL, Oracle Server, ETL, Database Design and Management.</h3>
+<h3 align="center"> I am a dedicated software engineer specializing in database development within the healthcare sector. My expertise lies in PostgreSQL and Oracle Server, focusing on database design, Performance enchancement, ETL processes and efficient management practices.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
